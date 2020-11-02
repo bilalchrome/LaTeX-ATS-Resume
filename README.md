@@ -1,6 +1,6 @@
 # My-Resume
 
-This is my latex resume. Feel free to change it up to whatever. It is straighforward to change the contents of it.
+This is my **Latex ATS Friendly** resume. Feel free to change it up to whatever. It is straighforward to change the contents of it.
 
 ## Easy Method
 
