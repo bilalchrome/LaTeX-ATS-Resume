@@ -18,3 +18,7 @@ Make sure to have the right latex packages installed which can be done manually 
 + ifthen
 + graohicx
 + geometry
+
+## Tips
+
+If resume ends up being two pages, you can change the font or margins in the *bilal.cls* file. 
