@@ -1,4 +1,4 @@
-# \LaTeX ATS Friendly Resume
+# LaTeX ATS Friendly Resume
 
 This is my **LaTeX ATS Friendly** resume. Feel free to change it up to whatever by editing *bilal.tex* file.
 
