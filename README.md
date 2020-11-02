@@ -1,6 +1,6 @@
 # My-Resume
 
-This is my **Latex ATS Friendly** resume. Feel free to change it up to whatever. It is straighforward to change the contents of it.
+This is my **Latex ATS Friendly** resume. Feel free to change it up to whatever by editing *bilal.tex* file.
 
 ## Easy Method
 
