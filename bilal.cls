@@ -1,8 +1,6 @@
 \ProvidesClass{resume}[2010/07/10 v0.9 Resume class]
 \LoadClass[12pt,letterpaper]{article} 
 \usepackage[left=0.6in,top=0.6in,right=0.6in,bottom=0.6in]{geometry}
-\usepackage{natbib}
-\usepackage{bibentry}
 \usepackage[parfill]{parskip} 
 \usepackage{array} 
 \usepackage{ifthen} 

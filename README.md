@@ -12,7 +12,6 @@ Make sure to have the right LaTeX packages installed which can be done manually 
 
 ### Packages
 
-+ natbib
 + parskip
 + arrat
 + ifthen
